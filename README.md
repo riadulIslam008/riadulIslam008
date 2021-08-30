@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Flutter Voice Command Music](https://youtu.be/p4xh7zTt6i0)**
+- 🔭 I’m currently working on **[Flutter Voice Command Music App](https://youtu.be/p4xh7zTt6i0)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
