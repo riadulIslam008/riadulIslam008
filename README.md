@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Flutter Voice Command Music App](https://youtu.be/p4xh7zTt6i0)**
+- 🔭 I’m currently working on **[Flutter master class Animation](https://courses.codewithandrea.com/p/flutter-animations-masterclass-full-course) & [Flutter AR Core](https://www.coursera.org/learn/ar)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **riadulislam087@gmail.com**
 
-- ⚡ Fun fact **I play Chess and after losing the match going to learn Data Structures and Algorithms .**
+- ⚡ Fun fact **after losing a losing match going to learn Data Structures and Algorithms .**
 
 ## 🚀 Languages and Tools:
 
