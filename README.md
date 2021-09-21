@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **riadulislam087@gmail.com**
 
-- ⚡ Fun fact **after losing a losing match going to learn Data Structures and Algorithms .**
+- ⚡ Fun fact **after losing a Chess match going to learn Data Structures and Algorithms .**
 
 ## 🚀 Languages and Tools:
 
