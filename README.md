@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Flutter master class Animation](https://courses.codewithandrea.com/p/flutter-animations-masterclass-full-course) & [Flutter AR Core](https://www.coursera.org/learn/ar)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Node js, Express js and MongoDb**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
