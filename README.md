@@ -67,7 +67,7 @@
 ## Connect with me:
 <p align="left">
 
-<!-- <a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
+<a href = "https://www.linkedin.com/in/riadul-islam-190b3b229/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/RiadulI81498125"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/riadulislam561/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/riadul.islam.752/"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png"/></a>
