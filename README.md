@@ -8,11 +8,11 @@
 
 - 🌱 Current Project **[Thumbnail Maker App]()**
   
-- 🔥 Previous Engagement ** Final Year Graduation Exam **
+- 🔥 Previous Engagement **Final Year Graduation Exam**
  
 - 🔭 I’m currently working on **[Flutter master class Animation](https://courses.codewithandrea.com/p/flutter-animations-masterclass-full-course) & [Flutter AR Core](https://www.coursera.org/learn/ar)**
 
-- 🌱 I’m currently learning ** Flutter Bloc State management and more about Getx **
+- 🌱 I’m currently learning **Flutter Bloc State management and more about Getx**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
